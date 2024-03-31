@@ -23,19 +23,25 @@ This repository is dedicated to the study and analysis of physical oceanographic
    Examination of the effectiveness of physical models such as Euler advection and Runge-Kutta methods in predicting drifter movement.
 
 6. **Conclusions**  
-   Summary of findings and implications for the study of physical oceanography.
+In summary, the trajectory of objects in the water can be significantly affected by their geographical
+location and the amount of drag they generate, depending on how submerged they
+are. In general, it is evident that objects tend to have less displacement and are less affected
+by wind and currents when more of their rigid body is underwater. The CDT data shows
+that conductivity, temperature, and depth are affected by location, depth, and the surrounding
+ocean conditions, as well as other physical and chemical properties of the water. However,
+under controlled conditions in the same geographical area, these factors should remain similar.
+To accurately understand the variations in salinity and temperature, it is necessary to consider
+these factors and analyze the data in the context of these variables. Multiple factors can influence
+the movement of drifters in the ocean, including ocean currents, wind, temperature,
+salinity, and other physical and chemical properties of the water. External forces such as tides
+and waves can also play a role. To understand the movement of drifters, models must take in
+count all of these factors and by the size of the study area.
 
 ## Project Structure
 The data and findings in this repository are presented through a comprehensive report and supported by graphical visualizations of boat trajectories, drifter paths, and CTD profiles.
 
-## How to Use
-Researchers and students can utilize the data and analyses for educational purposes, to further study physical oceanography, or to enhance predictive oceanographic models.
+![imagen](https://github.com/YosefGuevara012/Oceanic-modeling/assets/54146941/518440f1-3c63-4d7a-a04d-780a6d7d1b4a)
 
-## How to Contribute
-Contributions are welcome to expand the dataset, refine analysis techniques, or develop new computational models. To contribute, please:
-1. Fork the repository.
-2. Make and commit your changes.
-3. Submit a pull request detailing your additions or improvements.
 
 ## License
 This project and its contents are provided for educational and research purposes and are not licensed for commercial use. For more information, please contact the original authors.
